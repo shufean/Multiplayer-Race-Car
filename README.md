@@ -1,4 +1,4 @@
-multiplayer-race-car
+Multiplayer Race Car
 ====================
 
 Race among multiple players in local area network
